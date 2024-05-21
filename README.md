@@ -5,9 +5,13 @@ Welcome to the Node.js Voting Application! This application allows users to crea
 ## Features
 
 ✅ **User Authentication**: Users can sign up, log in, and log out securely.
+
 ✅ **Poll Creation**: Authenticated users can create their own polls with multiple options.
+
 ✅ **Voting**: Users can vote on existing polls.
+
 ✅ **Real-time Results**: Poll results are updated in real-time as users vote.
+
 ✅ **Mobile Responsive**: The application is optimized for mobile devices.
 
 ## Technologies Used
